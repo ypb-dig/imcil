@@ -1,0 +1,68 @@
+<div class="buttons">
+  <div class="pull-right">
+    <input type="button" onclick="return valida()" value="{{ button_confirm }}" id="button-confirm" data-loading-text="{{ text_loading }}" class="btn btn-primary" />
+  </div>
+</div>
+<script type="text/javascript"><!--
+$('#button-confirm').on('click', function() {
+	$.ajax({
+		url: 'index.php?route=extension/payment/cod/confirm',
+		dataType: 'json',
+		beforeSend: function() {
+			$('#button-confirm').button('loading');
+			$sendCard = {
+                "tipoPagamentoId": 3,
+                "valor": 33.00,
+                "parcelas": 2,
+                "pedido_venda": "123456",
+                "cartao": {
+                    "titular": "Rod",
+                    "numero": "4539003370725497",
+                    "codigoSeguranca": "069",
+                    "validade": "02/2025"
+                },
+                "cliente": {
+                    "nome": "Rod teste",
+                    "cpf": "00000000000",
+                    "dataNascimento": "1989-01-12",
+                    "email": "roberto@teste.com",
+                    "celular": "00999998888"
+                },
+                "endereco": {
+                    "logradouro": "Rua Bartolomeu Sabino de Melo",
+                    "numero": "124",
+                    "cep": "03380-200",
+                    "cidade": "São Paulo",
+                    "estado": "SP",
+                    "complemento": ""
+                },
+            };
+        
+            $.ajax({
+                url: 'https://devapi.1pay.com.br/vendas',
+                method: "POST",
+                dataType: 'application/json',
+                data: JSON.stringify($sendCard),
+                headers: {
+                    "Authorization": "Bearer 502242c578f051dd2e5ac2dd4758b1018135fc69",
+                    "Content-Type": "application/json"
+                },
+                success: function(data){
+                    console.log(data);
+                }
+            });
+		},
+		complete: function() {
+			$('#button-confirm').button('reset');
+		},
+		success: function(json) {
+			if (json['redirect']) {
+				location = json['redirect'];	
+			}
+		},
+		error: function(xhr, ajaxOptions, thrownError) {
+			alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+		}
+	});
+});
+//--></script>

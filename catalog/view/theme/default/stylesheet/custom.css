@@ -1,0 +1,83 @@
+.product-thumb .button-group button {
+    color: #fff !important;
+    background: #cc2229 !important;
+}
+
+.product-thumb .price {
+    color: #cc2829;
+    font-size: 23px;
+    font-weight:bold;
+}
+
+span.price-tax{
+    display:none !important;
+}
+
+.product-thumb h4 a{
+    font-size:21px;
+    color:#373736;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    margin: 0px 0px 4px;
+    font-size: 17px;
+    line-height: 1.25;
+    font-weight: 800;
+}
+.product-thumb .price-old {
+    color: #000;
+    text-decoration: line-through;
+    font-size:15px;
+    margin-left:0;
+    font-weight:normal;
+}
+
+.outlet-discount {
+    text-align: center;
+    width: 100px;
+    position: absolute;
+    right: -10px;
+    color: #fff;
+    top: -28px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 3px;
+    padding: 5px 0px;
+    z-index: 999;
+}
+
+.outlet-discount img{
+    max-width:100%;
+}
+
+footer{
+    background: #cc2829 !important;
+    padding: 25px;
+}
+
+footer h5{
+    font-size: 15px;
+    font-weight:normal;
+    padding-bottom: 15px;
+}
+
+footer a {
+    color: #fff;
+    font-size:15px;
+}
+
+footer hr{
+    display:none !important;
+}
+
+.copyright{
+    background: #303030;
+    color: #fff;
+    padding:20px;
+}
+
+.copyright p{
+    margin:0;
+}

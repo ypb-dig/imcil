@@ -1,0 +1,11 @@
+[07-Nov-2022 13:01:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ypbcom/public_html/homolog/imcil/catalog/controller/extension/module/latest.php on line 48
+[07-Nov-2022 13:02:05 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ypbcom/public_html/homolog/imcil/catalog/controller/extension/module/latest.php on line 60
+[07-Nov-2022 13:02:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ypbcom/public_html/homolog/imcil/catalog/controller/extension/module/latest.php on line 60
+[09-Nov-2022 17:21:30 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:21:34 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:21:36 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:21:45 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:21:48 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:22:13 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:22:16 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
+[09-Nov-2022 17:22:19 UTC] PHP Fatal error:  Cannot redeclare ModelCatalogProduct::getProductCategory() in /home/ypbcom/public_html/storage/modification/catalog/model/catalog/product.php on line 108
