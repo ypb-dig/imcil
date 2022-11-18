@@ -276,6 +276,10 @@ class ControllerProductProduct extends Controller {
 				}
 			}
 
+			echo '<pre>';
+			print_r($data);
+			echo '</pre>';
+
 			if ($product_info['quantity'] <= 0) {
 				$data['stock'] = $product_info['stock_status'];
 			} elseif ($this->config->get('config_stock_display')) {
