@@ -100,8 +100,8 @@ class ModelCatalogProduct extends Model {
             WHERE imc_product_to_category.category_id = 80
 		");
 		
-		$Teste = $query->rows;
-		return $Teste;
+		$productCategoryName = $query->rows;
+		return $productCategoryName;
 	}
 
 	public function getProducts($data = array()) {
