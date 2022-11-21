@@ -252,6 +252,8 @@ class ControllerProductProduct extends Controller {
 			$data['text_minimum'] = sprintf($this->language->get('text_minimum'), $product_info['minimum']);
 			$data['text_login'] = sprintf($this->language->get('text_login'), $this->url->link('account/login', '', true), $this->url->link('account/register', '', true));
 
+			$this->load->model('catalog/review');
+
 			$data['tab_review'] = sprintf($this->language->get('tab_review'), $product_info['reviews']);
 
 			$data['product_id'] = (int)$this->request->get['product_id'];
@@ -273,10 +275,6 @@ class ControllerProductProduct extends Controller {
 					$data['outlet'] = $outlet;
 				}
 			}
-
-			echo '<pre>';
-			print_r($data);
-			echo '</pre>';
 
 			if ($product_info['quantity'] <= 0) {
 				$data['stock'] = $product_info['stock_status'];
