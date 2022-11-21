@@ -24,7 +24,7 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'ypbcom_imcil');
+define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'Y?BSiuuNY+aA');
 define('DB_DATABASE', 'ypbcom_imcil');
 define('DB_PORT', '3306');
