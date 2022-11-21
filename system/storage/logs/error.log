@@ -1,0 +1,17 @@
+18-11-2022 18:47:00 - Error:  Call to undefined function getProductCategory() no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 160
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:03:58 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:04:18 - PHP Notice:  Undefined index: id no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 272
+18-11-2022 19:15:51 - PHP Warning:  Use of undefined constant data - assumed 'data' (this will throw an Error in a future version of PHP) no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 280
+18-11-2022 19:15:51 - PHP Warning:  Illegal string offset 'outlet' no arquivo C:\xampp\htdocs\imcil\catalog\controller\product\product.php na linha 280

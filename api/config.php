@@ -29,4 +29,3 @@ define('DB_PASSWORD', 'Y?BSiuuNY+aA');
 define('DB_DATABASE', 'ypbcom_imcil');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'imc_');
-
