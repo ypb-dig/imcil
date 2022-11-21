@@ -10,7 +10,7 @@ define('DIR_APPLICATION', '/home/ypbcom/public_html/homolog/imcil/catalog/');
 define('DIR_SYSTEM', '/home/ypbcom/public_html/homolog/imcil/system/');
 define('DIR_IMAGE', '/home/ypbcom/public_html/homolog/imcil/image/');
 define('DIR_WEBHOOK', '/home/ypbcom/public_html/homolog/imcil/webhook/');
-define('DIR_STORAGE', '/home/ypbcom/public_html/storage/');
+define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
