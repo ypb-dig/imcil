@@ -1,16 +1,16 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/imcil/');
+define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/admin/);
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/imcil/');
+define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/admin/);
 
 // DIR
-define('DIR_APPLICATION', 'C:/xampp/htdocs/imcil/catalog/');
-define('DIR_SYSTEM', 'C:/xampp/htdocs/imcil/system/');
-define('DIR_IMAGE', 'C:/xampp/htdocs/imcil/image/');
-define('DIR_WEBHOOK', 'C:/xampp/htdocs/imcil/webhook/');
-define('DIR_STORAGE',  DIR_SYSTEM . 'storage/');
+define('DIR_APPLICATION', '/home/ypbcom/public_html/homolog/imcil/catalog/');
+define('DIR_SYSTEM', '/home/ypbcom/public_html/homolog/imcil/system/');
+define('DIR_IMAGE', '/home/ypbcom/public_html/homolog/imcil/image/');
+define('DIR_WEBHOOK', '/home/ypbcom/public_html/homolog/imcil/webhook/');
+define('DIR_STORAGE', '/home/ypbcom/public_html/homolog/imcil/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
@@ -28,4 +28,4 @@ define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
 define('DB_DATABASE', 'ypbcom_imcil');
 define('DB_PORT', '3306');
-define('DB_PREFIX', 'imc_');
+define('DBPREFIX', 'imc');
