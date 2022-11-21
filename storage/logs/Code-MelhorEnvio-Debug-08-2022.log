@@ -1,0 +1,4524 @@
+23-08-2022 13:31:25 - post() - Dentro do modo Debug
+23-08-2022 13:31:25 - post() - Testando serviço ID: 1
+23-08-2022 13:31:25 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 13:31:25 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:31:25 - post() - Testando serviço ID: 2
+23-08-2022 13:31:25 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 13:31:26 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:31:26 - post() - Testando serviço ID: 3
+23-08-2022 13:31:26 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 13:31:27 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:31:27 - post() - Testando serviço ID: 4
+23-08-2022 13:31:27 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 13:31:27 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:31:27 - post() - Testando serviço ID: 9
+23-08-2022 13:31:27 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 13:31:28 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:32:19 - post() - Dentro do modo Debug
+23-08-2022 13:32:19 - post() - Testando serviço ID: 1
+23-08-2022 13:32:19 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 13:32:20 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:32:20 - post() - Testando serviço ID: 2
+23-08-2022 13:32:20 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 13:32:20 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:32:21 - post() - Testando serviço ID: 3
+23-08-2022 13:32:21 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 13:32:21 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:32:21 - post() - Testando serviço ID: 4
+23-08-2022 13:32:21 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 13:32:22 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:32:22 - post() - Testando serviço ID: 9
+23-08-2022 13:32:22 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 13:32:22 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:39:12 - post() - Dentro do modo Debug
+23-08-2022 13:39:12 - post() - Testando serviço ID: 1
+23-08-2022 13:39:12 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 13:39:12 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:13 - post() - Testando serviço ID: 2
+23-08-2022 13:39:13 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 13:39:13 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:13 - post() - Testando serviço ID: 3
+23-08-2022 13:39:13 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 13:39:14 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:14 - post() - Testando serviço ID: 4
+23-08-2022 13:39:14 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 13:39:14 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:14 - post() - Testando serviço ID: 9
+23-08-2022 13:39:14 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 2
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 13:39:15 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:30 - post() - Dentro do modo Debug
+23-08-2022 13:39:30 - post() - Testando serviço ID: 1
+23-08-2022 13:39:30 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 3
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 13:39:30 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:31 - post() - Testando serviço ID: 2
+23-08-2022 13:39:31 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 3
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 13:39:31 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:31 - post() - Testando serviço ID: 3
+23-08-2022 13:39:31 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 3
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 13:39:32 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:32 - post() - Testando serviço ID: 4
+23-08-2022 13:39:32 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 3
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 13:39:32 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:39:32 - post() - Testando serviço ID: 9
+23-08-2022 13:39:32 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0
+                    [length] => 0
+                    [width] => 0
+                    [height] => 0
+                    [quantity] => 3
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 13:39:33 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:42:19 - post() - Dentro do modo Debug
+23-08-2022 13:42:19 - post() - Testando serviço ID: 1
+23-08-2022 13:42:19 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 13:42:20 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:42:20 - post() - Testando serviço ID: 2
+23-08-2022 13:42:20 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 13:42:20 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:42:20 - post() - Testando serviço ID: 3
+23-08-2022 13:42:20 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 13:42:21 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:42:21 - post() - Testando serviço ID: 4
+23-08-2022 13:42:21 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 13:42:21 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:42:22 - post() - Testando serviço ID: 9
+23-08-2022 13:42:22 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 
+            [address] => 
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 13:42:22 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [errors] => Array
+        (
+            [from.postal_code] => Array
+                (
+                    [0] => O campo from.postal_code é obrigatório.
+                )
+
+        )
+
+    [message] => The given data was invalid.
+)
+
+23-08-2022 13:56:25 - post() - Dentro do modo Debug
+23-08-2022 13:56:25 - post() - Testando serviço ID: 1
+23-08-2022 13:56:25 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 13:56:25 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:56:25 - post() - Testando serviço ID: 2
+23-08-2022 13:56:25 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 13:56:26 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:56:26 - post() - Testando serviço ID: 3
+23-08-2022 13:56:26 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 13:56:27 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:56:27 - post() - Testando serviço ID: 4
+23-08-2022 13:56:27 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 13:56:27 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 13:56:27 - post() - Testando serviço ID: 9
+23-08-2022 13:56:27 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 13:56:28 - post() URL: https://www.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:01:53 - post() - Dentro do modo Debug
+23-08-2022 15:01:53 - post() - Testando serviço ID: 1
+23-08-2022 15:01:53 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 15:01:53 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:01:54 - post() - Testando serviço ID: 2
+23-08-2022 15:01:54 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 15:01:54 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:01:54 - post() - Testando serviço ID: 3
+23-08-2022 15:01:54 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 15:01:54 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:01:54 - post() - Testando serviço ID: 4
+23-08-2022 15:01:54 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 15:01:54 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:01:54 - post() - Testando serviço ID: 9
+23-08-2022 15:01:54 - post() - Dados Serviço ID 9: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 03918000
+            [address] => Rua General Porfírio da Paz
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 
+            [own_hand] => 
+            [collect] => 1
+        )
+
+    [services] => 9
+)
+
+23-08-2022 15:01:54 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 9: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:14:15 - post() - Dentro do modo Debug
+23-08-2022 15:14:15 - post() - Testando serviço ID: 1
+23-08-2022 15:14:15 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 15:14:15 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:14:15 - post() - Testando serviço ID: 2
+23-08-2022 15:14:15 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 15:14:15 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:14:15 - post() - Testando serviço ID: 3
+23-08-2022 15:14:15 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 15:14:15 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:14:16 - post() - Testando serviço ID: 4
+23-08-2022 15:14:16 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 03918000
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 15:14:16 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:34:45 - post() - Dentro do modo Debug
+23-08-2022 15:34:45 - post() - Testando serviço ID: 1
+23-08-2022 15:34:45 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 15:34:45 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:34:45 - post() - Testando serviço ID: 2
+23-08-2022 15:34:45 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 15:34:46 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:34:46 - post() - Testando serviço ID: 3
+23-08-2022 15:34:46 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 15:34:46 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:34:46 - post() - Testando serviço ID: 4
+23-08-2022 15:34:46 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 0.5
+                    [width] => 0.8
+                    [height] => 0.8
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 15:34:46 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:41:37 - post() - Dentro do modo Debug
+23-08-2022 15:41:37 - post() - Testando serviço ID: 1
+23-08-2022 15:41:37 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 15:41:37 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:41:37 - post() - Testando serviço ID: 2
+23-08-2022 15:41:37 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 15:41:37 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:41:37 - post() - Testando serviço ID: 3
+23-08-2022 15:41:37 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 15:41:37 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:41:37 - post() - Testando serviço ID: 4
+23-08-2022 15:41:37 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 15:41:38 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:43:12 - post() - Dentro do modo Debug
+23-08-2022 15:43:12 - post() - Testando serviço ID: 1
+23-08-2022 15:43:12 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 15:43:12 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:43:12 - post() - Testando serviço ID: 2
+23-08-2022 15:43:12 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 15:43:12 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:43:12 - post() - Testando serviço ID: 3
+23-08-2022 15:43:12 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 15:43:12 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:43:12 - post() - Testando serviço ID: 4
+23-08-2022 15:43:12 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 15:43:13 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:44:13 - post() - Dentro do modo Debug
+23-08-2022 15:44:13 - post() - Testando serviço ID: 1
+23-08-2022 15:44:13 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 15:44:13 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:44:13 - post() - Testando serviço ID: 2
+23-08-2022 15:44:13 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 15:44:13 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:44:14 - post() - Testando serviço ID: 3
+23-08-2022 15:44:14 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 15:44:14 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 15:44:14 - post() - Testando serviço ID: 4
+23-08-2022 15:44:14 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 15:44:14 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 17:44:04 - post() - Dentro do modo Debug
+23-08-2022 17:44:04 - post() - Testando serviço ID: 1
+23-08-2022 17:44:04 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 17:44:05 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 17:44:05 - post() - Testando serviço ID: 2
+23-08-2022 17:44:05 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 17:44:05 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 17:44:05 - post() - Testando serviço ID: 3
+23-08-2022 17:44:05 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 17:44:05 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 17:44:05 - post() - Testando serviço ID: 4
+23-08-2022 17:44:05 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 17:44:05 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 20:09:44 - post() - Dentro do modo Debug
+23-08-2022 20:09:44 - post() - Testando serviço ID: 1
+23-08-2022 20:09:44 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+23-08-2022 20:09:44 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 20:09:44 - post() - Testando serviço ID: 2
+23-08-2022 20:09:44 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+23-08-2022 20:09:45 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 20:09:45 - post() - Testando serviço ID: 3
+23-08-2022 20:09:45 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+23-08-2022 20:09:45 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+23-08-2022 20:09:45 - post() - Testando serviço ID: 4
+23-08-2022 20:09:45 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+23-08-2022 20:09:45 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 12:39:49 - post() - Dentro do modo Debug
+24-08-2022 12:39:49 - post() - Testando serviço ID: 1
+24-08-2022 12:39:49 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 12:39:50 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 12:39:50 - post() - Testando serviço ID: 2
+24-08-2022 12:39:50 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 12:39:50 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 12:39:50 - post() - Testando serviço ID: 3
+24-08-2022 12:39:50 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 12:39:50 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 12:39:50 - post() - Testando serviço ID: 4
+24-08-2022 12:39:50 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 100
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 12:39:50 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:05:17 - post() - Dentro do modo Debug
+24-08-2022 13:05:17 - post() - Testando serviço ID: 1
+24-08-2022 13:05:17 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 13:05:17 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:05:17 - post() - Testando serviço ID: 2
+24-08-2022 13:05:17 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 13:05:17 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:05:17 - post() - Testando serviço ID: 3
+24-08-2022 13:05:17 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 13:05:17 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:05:17 - post() - Testando serviço ID: 4
+24-08-2022 13:05:17 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 13:05:17 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:07:00 - post() - Dentro do modo Debug
+24-08-2022 13:07:00 - post() - Testando serviço ID: 1
+24-08-2022 13:07:00 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 13:07:00 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:07:01 - post() - Testando serviço ID: 2
+24-08-2022 13:07:01 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 13:07:01 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:07:01 - post() - Testando serviço ID: 3
+24-08-2022 13:07:01 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 13:07:01 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:07:01 - post() - Testando serviço ID: 4
+24-08-2022 13:07:01 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 13:07:01 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:09:30 - post() - Dentro do modo Debug
+24-08-2022 13:09:30 - post() - Testando serviço ID: 1
+24-08-2022 13:09:30 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 1.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 13:09:30 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:09:30 - post() - Testando serviço ID: 2
+24-08-2022 13:09:30 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 1.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 13:09:30 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:09:30 - post() - Testando serviço ID: 3
+24-08-2022 13:09:30 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 1.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 13:09:30 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:09:30 - post() - Testando serviço ID: 4
+24-08-2022 13:09:30 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 1.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 13:09:30 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:18:29 - post() - Dentro do modo Debug
+24-08-2022 13:18:29 - post() - Testando serviço ID: 1
+24-08-2022 13:18:29 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 13:18:29 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:18:29 - post() - Testando serviço ID: 2
+24-08-2022 13:18:29 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 13:18:29 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:18:29 - post() - Testando serviço ID: 3
+24-08-2022 13:18:29 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 13:18:29 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:18:30 - post() - Testando serviço ID: 4
+24-08-2022 13:18:30 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 13:18:30 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:33:44 - post() - Dentro do modo Debug
+24-08-2022 13:33:44 - post() - Testando serviço ID: 1
+24-08-2022 13:33:44 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 13:33:44 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:33:44 - post() - Testando serviço ID: 2
+24-08-2022 13:33:44 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 13:33:44 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:33:45 - post() - Testando serviço ID: 3
+24-08-2022 13:33:45 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 13:33:45 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 13:33:45 - post() - Testando serviço ID: 4
+24-08-2022 13:33:45 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 09781280
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 13:33:45 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 19:48:28 - post() - Dentro do modo Debug
+24-08-2022 19:48:28 - post() - Testando serviço ID: 1
+24-08-2022 19:48:28 - post() - Dados Serviço ID 1: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 18055859
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 1
+)
+
+24-08-2022 19:48:28 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 1: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 19:48:28 - post() - Testando serviço ID: 2
+24-08-2022 19:48:28 - post() - Dados Serviço ID 2: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 18055859
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 1
+            [collect] => 
+        )
+
+    [services] => 2
+)
+
+24-08-2022 19:48:28 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 2: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 19:48:28 - post() - Testando serviço ID: 3
+24-08-2022 19:48:28 - post() - Dados Serviço ID 3: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 18055859
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 3
+)
+
+24-08-2022 19:48:28 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 3: Array
+(
+    [message] => Unauthenticated.
+)
+
+24-08-2022 19:48:29 - post() - Testando serviço ID: 4
+24-08-2022 19:48:29 - post() - Dados Serviço ID 4: Array
+(
+    [to] => Array
+        (
+            [postal_code] => 18055859
+            [address] => 
+            [number] => 
+        )
+
+    [from] => Array
+        (
+            [postal_code] => 04046300
+            [address] => Avenida Jabaquara
+            [number] => 1634
+        )
+
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 52
+                    [weight] => 0.5
+                    [length] => 30
+                    [width] => 30
+                    [height] => 50
+                    [quantity] => 1
+                    [unitary_value] => 33
+                    [insurance_value] => 33
+                )
+
+        )
+
+    [options] => Array
+        (
+            [receipt] => 1
+            [own_hand] => 
+            [collect] => 
+        )
+
+    [services] => 4
+)
+
+24-08-2022 19:48:29 - post() URL: https://sandbox.melhorenvio.com.br/api/v2/me/shipment/calculate - Dados retornados Serviço ID 4: Array
+(
+    [message] => Unauthenticated.
+)
+
