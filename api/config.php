@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/api/);
-define('HTTP_CATALOG', 'https://homolog.ypb.com.br/imcil/);
+define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/api/');
+define('HTTP_CATALOG', 'https://homolog.ypb.com.br/imcil/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/api/);
-define('HTTPS_CATALOG', 'https://homolog.ypb.com.br/imcil/);
+define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/api/');
+define('HTTPS_CATALOG', 'https://homolog.ypb.com.br/imcil/');
 
 // DIR
 define('DIR_APPLICATION', '/home/ypbcom/public_html/homolog/imcil/api/');

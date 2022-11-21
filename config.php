@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/admin/);
+define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/admin/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/admin/);
+define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/admin/');
 
 // DIR
 define('DIR_APPLICATION', '/home/ypbcom/public_html/homolog/imcil/catalog/');

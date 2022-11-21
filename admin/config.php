@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/admin/);
-define('HTTP_CATALOG', 'https://homolog.ypb.com.br/imcil/);
+define('HTTP_SERVER', 'https://homolog.ypb.com.br/imcil/admin/');
+define('HTTP_CATALOG', 'https://homolog.ypb.com.br/imcil/');
 
 // HTTPS
-define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/admin/);
-define('HTTPS_CATALOG', 'https://homolog.ypb.com.br/imcil/);
+define('HTTPS_SERVER', 'https://homolog.ypb.com.br/imcil/admin/');
+define('HTTPS_CATALOG', 'https://homolog.ypb.com.br/imcil/');
 
 // DIR
 define('DIR_APPLICATION', '/home/ypbcom/public_html/homolog/imcil/admin/');
@@ -34,4 +34,4 @@ define('DB_PORT', '3306');
 define('DBPREFIX', 'imc');
 
 // OpenCart API
-define('OPENCART_SERVER', 'https://www.opencart.com/);
+define('OPENCART_SERVER', 'https://www.opencart.com/');
