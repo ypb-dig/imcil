@@ -31,7 +31,7 @@ define('DB_USERNAME', 'ypbcom_imcil');
 define('DB_PASSWORD', 'Y?BSiuuNY+aA');
 define('DB_DATABASE', 'ypbcom_imcil');
 define('DB_PORT', '3306');
-define('DBPREFIX', 'imc');
+define('DBPREFIX', 'imc_');
 
 // OpenCart API
 define('OPENCART_SERVER', 'https://www.opencart.com/');
