@@ -135,6 +135,10 @@ class ControllerProductCategory extends Controller {
 
 			$results = $this->model_catalog_category->getCategories($category_id);
 
+			$product_outlet_list = $this->model_catalog_product->getProductCategory();
+
+			$outlet = false;
+
 			foreach ($results as $result) {
 				$filter_data = array(
 					'filter_category_id'  => $result['category_id'],
@@ -195,6 +199,16 @@ class ControllerProductCategory extends Controller {
 					$rating = false;
 				}
 
+				foreach($product_outlet_list as $product_outlet){
+					$outlet = in_array($result['product_id'], $product_outlet);
+					if($outlet){
+						// echo "<pre>";
+						// var_dump($outlet);
+						// echo "</pre>";
+						break;
+					}
+				}
+
 				$data['products'][] = array(
 					'product_id'  => $result['product_id'],
 					'thumb'       => $image,
@@ -205,9 +219,16 @@ class ControllerProductCategory extends Controller {
 					'tax'         => $tax,
 					'minimum'     => $result['minimum'] > 0 ? $result['minimum'] : 1,
 					'rating'      => $rating,
-					'href'        => $this->url->link('product/product', 'path=' . $this->request->get['path'] . '&product_id=' . $result['product_id'] . $url)
+					'href'        => $this->url->link('product/product', 'path=' . $this->request->get['path'] . '&product_id=' . $result['product_id'] . $url),
+					'outlet'      => $outlet
 				);
+
+				// echo "<pre>";
+				// print_r($data['products']);
+				// echo "</pre>";
+
 			}
+
 
 			$url = '';
 
@@ -408,6 +429,7 @@ class ControllerProductCategory extends Controller {
 			$data['header'] = $this->load->controller('common/header');
 
 			$this->response->setOutput($this->load->view('error/not_found', $data));
+
 		}
 	}
 }
